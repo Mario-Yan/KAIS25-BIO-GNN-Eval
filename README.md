@@ -1,1 +1,1 @@
-# icde22_paper_id_36
+# KAIS25-BIO-GNN-Eval
